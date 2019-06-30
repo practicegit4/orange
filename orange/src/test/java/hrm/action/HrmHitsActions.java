@@ -6,7 +6,7 @@ import hrm.elements.HrmElements;
 import hrm.utilities.HrmDrivers;
 
 public class HrmHitsActions {
-	
+	//Full project completed
 	HrmElements TTest;
 	
 	public HrmHitsActions() {
